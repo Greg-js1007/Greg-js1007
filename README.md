@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gregory Subero</h1>
 <h3 align="center">A passionate frontend developer from Venezuela</h3>
 
-- 🌱 I’m currently learning **Python, TypeScript and Node**
+- 🌱 I’m currently learning Next.js and TypeScript
 
 - 📫 How to reach me **suberog010@gmail.com**
 
