@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gregory Subero</h1>
-<h3 align="center">A passionate frontend developer from Venezuela</h3>
+<h3 align="center">Full-Stack Developer and Computer Science graduate</h3>
 
-- 🌱 I’m currently learning Next.js and TypeScript
-
-- 📫 How to reach me **suberog010@gmail.com**
+- 💻 Tech Stack: React, Next.js, Node.js, PostgreSQL & Tailwind CSS.
+- 📈 Proven Impact: Developed a recruitment system that improved efficiency by 20%.🌱 Currently learning: TypeScript to bring more robustness to my code.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
